@@ -1,0 +1,14 @@
+{
+"companyName": "robertrmalone",
+"productName": "2s3s5s",
+"dataUrl": "235webgl.data.unityweb",
+"asmCodeUrl": "235webgl.asm.code.unityweb",
+"asmMemoryUrl": "235webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "235webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "235webgl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
